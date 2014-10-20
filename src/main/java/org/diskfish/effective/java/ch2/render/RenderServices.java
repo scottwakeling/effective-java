@@ -1,4 +1,4 @@
-package com.diskfish.eff.java.ch2.i1.render;
+package org.diskfish.effective.java.ch2.render;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

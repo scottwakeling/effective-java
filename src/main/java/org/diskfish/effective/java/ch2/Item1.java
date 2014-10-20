@@ -1,7 +1,7 @@
-package com.diskfish.eff.java.ch2.i1;
+package org.diskfish.effective.java.ch2;
 
-import com.diskfish.eff.java.ch2.i1.render.RenderService;
-import com.diskfish.eff.java.ch2.i1.render.RenderServices;
+import org.diskfish.effective.java.ch2.render.RenderService;
+import org.diskfish.effective.java.ch2.render.RenderServices;
 
 /**
  * Item 1: Consider static factory methods instead of constructors
